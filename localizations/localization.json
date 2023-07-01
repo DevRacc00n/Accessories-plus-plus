@@ -1,0 +1,10 @@
+{
+    "GAMEPLAY_HikingPackA":{
+        "English" : "Large Hiking Pack",
+        "Spanish (Spain)" : "Bolsa de senderismo grande"
+    },
+    "GAMEPLAY_HikingPackADesc":{
+        "English" : "A large bag designed for professional hikers. Can be worn in addition to your current backpack.",
+        "Spanish (Spain)" : "Una bolsa grande diseñada para excursionistas profesionales. Se puede usar además de su mochila actual."
+    }
+}
