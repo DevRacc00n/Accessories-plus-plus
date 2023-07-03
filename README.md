@@ -1,4 +1,4 @@
-# Hiking-Pack-Mod
+# Accessories++
 Adds a new accessory backpack that can be worn in addition to your current backpack.
 The new backpack is found atop the broken lighthouse in Bleak Inlet, as a reward for the difficult nature of the region and the journey to get there.
 
