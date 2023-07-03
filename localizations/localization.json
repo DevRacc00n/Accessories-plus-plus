@@ -6,5 +6,13 @@
     "GAMEPLAY_HikingPackADesc":{
         "English" : "A large bag designed for professional hikers. Can be worn in addition to your current backpack.",
         "Spanish (Spain)" : "Una bolsa grande diseñada para excursionistas profesionales. Se puede usar además de su mochila actual."
+    },
+    "GAMEPLAY_EmergencyAxe" : {
+        "English" : "Fireman's Axe",
+        "Spanish (Spain)": "Hacha de bombero"
+    },
+    "GAMEPLAY_EmergencyAxeDesc" : {
+        "English" : "A reliable tool that can cut or open virtually anything.",
+        "Spanish (Spain)": "Una herramienta confiable que puede cortar o abrir prácticamente cualquier cosa."
     }
 }
