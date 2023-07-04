@@ -10,3 +10,5 @@ The harness is unfinished and will be given a spawn location as well as a proper
 "Survival Backpack" (https://skfb.ly/6WBpu) by Thunder is licensed under Creative Commons Attribution-ShareAlike (http://creativecommons.org/licenses/by-sa/4.0/).
 
 "Fire Axe" (https://skfb.ly/6V6KH) by denis_cliofas is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Climbing Harness" (https://skfb.ly/6S8UV) by Amad Junaid is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
