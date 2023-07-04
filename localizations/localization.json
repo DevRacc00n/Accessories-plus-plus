@@ -14,5 +14,13 @@
     "GAMEPLAY_EmergencyAxeDesc" : {
         "English" : "A reliable tool that can cut or open virtually anything.",
         "Spanish (Spain)": "Una herramienta confiable que puede cortar o abrir prácticamente cualquier cosa."
+    },
+    "GAMEPLAY_HarnessA":{
+        "English":"Climbing Harness",
+        "Spanish (Spain)":"Arnés de escalada"
+    },
+    "GAMEPLAY_HarnessADesc":{
+        "English":"Makes the journey easier for a weary traveler.",
+        "Spanish (Spain)":"Hace el viaje más fácil para un viajero cansado."
     }
 }
