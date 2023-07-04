@@ -1,0 +1,26 @@
+{
+    "GAMEPLAY_HikingPackA":{
+        "English" : "Large Hiking Pack",
+        "Spanish (Spain)" : "Bolsa de senderismo grande"
+    },
+    "GAMEPLAY_HikingPackADesc":{
+        "English" : "A large bag designed for professional hikers. Can be worn in addition to your current backpack.",
+        "Spanish (Spain)" : "Una bolsa grande diseñada para excursionistas profesionales. Se puede usar además de su mochila actual."
+    },
+    "GAMEPLAY_EmergencyAxe" : {
+        "English" : "Fireman's Axe",
+        "Spanish (Spain)": "Hacha de bombero"
+    },
+    "GAMEPLAY_EmergencyAxeDesc" : {
+        "English" : "A reliable tool that can cut or open virtually anything.",
+        "Spanish (Spain)": "Una herramienta confiable que puede cortar o abrir prácticamente cualquier cosa."
+    },
+    "GAMEPLAY_HarnessA":{
+        "English":"Climbing Harness",
+        "Spanish (Spain)":"Arnés de escalada"
+    },
+    "GAMEPLAY_HarnessADesc":{
+        "English":"Makes the journey easier for a weary traveler.",
+        "Spanish (Spain)":"Hace el viaje más fácil para un viajero cansado."
+    }
+}

@@ -1,0 +1,2 @@
+scene=WhalingStationRegion
+item=GEAR_HikingPackA p=734.1638,61.0064,765.5700 r=-0.0000,12.9632,-0.0000 c=100
