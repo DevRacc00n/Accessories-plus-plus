@@ -1,6 +1,9 @@
 # Accessories++
 Adds new items + accessories that spawn around Great Bear in predetermined Locations.
 
+DEPENDENCIES:
+MODCOMPONENT, CRAFTING REVISIONS, LOCALIZATION UTILITIES, GEAR SPAWNER
+
 The new backpack is found atop the lighthouse in Desolation Point, as a reward for the difficult nature of the region and the journey to get there.
 
 The new axe is found on the countertop of the Camp Office in Mystery Lake.
