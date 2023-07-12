@@ -38,9 +38,9 @@
                             "HoursToDryNearFire" : 0,
                             "HoursToDryWithoutFire" : 0,
                             "HoursToFreeze" : 0,
-                            "MainTexture" : "harnessa_HMM_",
-                            "BlendTexture" : "harnessa_blend_M_",
-                            "DrawLayer" : 999,
+                            "MainTexture" : "CLTH_harnessa_HMM_",
+                            "BlendTexture" : "CLTH_harnessa_blend_M_",
+                            "DrawLayer" : 53,
                             "ImplementationType" : ""
                         },
     "ModRepairableBehaviour" : {
