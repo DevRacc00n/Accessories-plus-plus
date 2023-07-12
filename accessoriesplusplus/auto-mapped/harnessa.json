@@ -38,8 +38,8 @@
                             "HoursToDryNearFire" : 0,
                             "HoursToDryWithoutFire" : 0,
                             "HoursToFreeze" : 0,
-                            "MainTexture" : "CLTH_harnessa",
-                            "BlendTexture" : "",
+                            "MainTexture" : "harnessa_HMM_",
+                            "BlendTexture" : "harnessa_blend_M_",
                             "DrawLayer" : 999,
                             "ImplementationType" : ""
                         },
