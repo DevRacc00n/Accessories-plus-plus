@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: harnessa
+  m_EditorClassIdentifier: 
+  m_GroupName: harnessa
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e10f799177451524ca6ecf46103d5c98
+  m_SerializeEntries:
+  - m_GUID: 56b11d3fc15bd464799cf7fe3b76db39
+    m_Address: ico_GearItem__HarnessA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 516ceeab849b89a4bb5b0357121b6c2c
+    m_Address: GEAR_HarnessA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6258098f2f3889647b90059cfe72b879, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 86ec54142f012f943ac2b0f8558ac378, type: 2}
+    - {fileID: 11400000, guid: b2313af5ee5a2ab43a79196d47139661, type: 2}
