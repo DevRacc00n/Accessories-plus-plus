@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: hikingpacka
+  m_EditorClassIdentifier: 
+  m_GroupName: hikingpacka
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3910f39c2d68ee249b6958e689bd848f
+  m_SerializeEntries:
+  - m_GUID: 80c9e725f2600db4a87eaa7a1a05a0bd
+    m_Address: ico_GearItem__HikingPackA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff5dad0864eed3f4490bee1847c2f36a
+    m_Address: GEAR_HikingPackA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1c6679e81bdf6984a8a66288fdcef8e7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 117d6ebc843139841abbc13ef7113c3c, type: 2}
+    - {fileID: 11400000, guid: 8891ab88e1f97f043b6995335dd4669b, type: 2}

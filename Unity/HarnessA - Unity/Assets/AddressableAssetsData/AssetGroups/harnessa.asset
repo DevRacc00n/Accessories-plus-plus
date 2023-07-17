@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: harnessa
+  m_EditorClassIdentifier: 
+  m_GroupName: harnessa
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 38d2372dcdb34734482674bd815b0d3d
+  m_SerializeEntries:
+  - m_GUID: 12013025223e0dc46b9577b95d7cb592
+    m_Address: CLTH_harnessa_blend_F_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a34e4ebcd5c3a64f8f4c7904be718a9
+    m_Address: CLTH_harnessa_HMF_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 193ecfea4679d4e479c6da5557b273fd
+    m_Address: CLTH_harnessa_HMF__dmg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4673cb70e3bbde047a1b1ba0f5374a92
+    m_Address: CLTH_harnessa_blend_M_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 06962738e5cd9f94c9fc31326c920de3
+    m_Address: CLTH_harnessa_HMM_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd51c8362f10af34690460e2aed1ae00
+    m_Address: CLTH_harnessa_HMM__dmg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56b11d3fc15bd464799cf7fe3b76db39
+    m_Address: ico_GearItem__HarnessA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 516ceeab849b89a4bb5b0357121b6c2c
+    m_Address: GEAR_HarnessA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6258098f2f3889647b90059cfe72b879, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 86ec54142f012f943ac2b0f8558ac378, type: 2}
+    - {fileID: 11400000, guid: b2313af5ee5a2ab43a79196d47139661, type: 2}

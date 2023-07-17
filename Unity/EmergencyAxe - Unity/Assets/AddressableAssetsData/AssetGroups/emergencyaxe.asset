@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: emergencyaxe
+  m_EditorClassIdentifier: 
+  m_GroupName: emergencyaxe
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ddcf6f9cbf290d0439206b7358aee342
+  m_SerializeEntries:
+  - m_GUID: 0e13ca647aa4c9b4abeb46bf91eb23fb
+    m_Address: ico_GearItem__EmergencyAxe
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e23ad10df672e1d4f83552506f353945
+    m_Address: GEAR_EmergencyAxe
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: fdf3f2abd19b7ba498ce37ee835b3e29, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9c064180059aa484494ae80c61d3aa1d, type: 2}
+    - {fileID: 11400000, guid: 4465ff01383ec0d46bdcb9771fc5ee0e, type: 2}
